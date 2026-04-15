@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build folders
+/bin/
+/pkg/
+
+# Go workspace
+go.work
+
+# IDE
+.vscode/
